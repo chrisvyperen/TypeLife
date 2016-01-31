@@ -1,2 +1,2 @@
 # TypeLife
-Repository for TypeLife
+Repository for TypeLife website
